@@ -1,1 +1,9 @@
 PATH is a search path that lists all directories that OS searches for executables
+
+Compiler and Interpreter
+
+Object code is what computer compiler produces. In general, object code is a
+sequence of statements or instruction in a computer language, usually the
+machine code (binary). Object code is a portion of machine code that is not
+linked into a complete program.
+"A program in a machine languages are called object code or object program"
