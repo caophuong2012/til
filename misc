@@ -1,0 +1,6 @@
+Machine code: binary (0 1), can be executed directly by the CPU.
+Object code: a portion of machine code the hasn't yet been linked into a
+complete program. It's machine code for a particular library or module that
+make up the completed product.
+Assembly code: is plain text, machine instructions like JMP or MULT. CPU
+doesn't understand this one.
