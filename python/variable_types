@@ -1,0 +1,10 @@
+Five standard data types:
+- Number
+- String
+- List
+- Tuple
+- Dictinary
+
+List vs Tuple:
+- List: enclosed by [], elements and size can be changed
+- Tuple: enclosed by (), cannot be updated
