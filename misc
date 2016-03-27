@@ -4,3 +4,8 @@ complete program. It's machine code for a particular library or module that
 make up the completed product.
 Assembly code: is plain text, machine instructions like JMP or MULT. CPU
 doesn't understand this one.
+
+Copyright vs. Copyleft
+- Copyright: protect authors of documentation or software
+- Copyleft: provide a method for software or documentation to be modified, and
+  distributed back to the community
