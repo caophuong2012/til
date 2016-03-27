@@ -1,0 +1,11 @@
+Is a server side platform built for Google Chrome's JavaScript Engine
+Open source, cross-platform runtime environment for developing server-side and
+networking applications.
+Written in JavaScript
+
+Features:
+- Asynchronous and Event Driven:
+- Fast code execution
+- Single threaded
+- No buffering
+- MIT license
