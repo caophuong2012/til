@@ -1,0 +1,2 @@
+lorax: tool for creating the anaconda install images, contains
+livemedia-creator to create bootable livemedia.
