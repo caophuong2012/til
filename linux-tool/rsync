@@ -1,0 +1,9 @@
+rsync uses Zlib for compression and SSH for data security.
+
+rsync over scp
+rsync:
+- Check file sizes and modification timestamps, skip any futher processing
+if the match
+- Have plethora of command line options
+- Support complex filter rules
+scp: a plain linear copy
