@@ -1,0 +1,12 @@
+How replication work?
+Master:
+- Write replication events to binary log.
+- Whenever a slave connects to master, master creates a new thread for the
+  connection
+Client:
+Two threads are started:
+- IO thread: connect to master, read binary logs from the master as they come
+  in and just copies them to local log file called relay log.
+  Note Master_Log_File and Read_Master_Log_Pos
+- SQL thread: read from relay log and apply them ASAP 
+
