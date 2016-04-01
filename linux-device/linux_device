@@ -1,0 +1,8 @@
+Loop device is pseudo-device that makes a file accessible as a block device. A
+loop device must be connected to existing file in the filesystem. This device
+are often used for CD.
+
+Pseudo-device: Device nodes in Unix-like systems do not neccessarily have to
+correspond to physical devices:
+- /dev/null: accepts and discards all ouputs
+- /dev/random: produce variable-length stream of pseudo-random numbers.
