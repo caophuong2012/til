@@ -1,0 +1,4 @@
+While configure yum using multiple baseurls, we can use this option:
+failovermethod=roundrobin
+or 
+failovermethod=priority
