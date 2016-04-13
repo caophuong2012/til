@@ -1,0 +1,2 @@
+Use function addslashes to add single quote
+Also, we need to add backslash for % and _
