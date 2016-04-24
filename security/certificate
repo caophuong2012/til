@@ -1,0 +1,5 @@
+CSR (Certification Signing Request):
+- Contains information such as organization, common name, locality, public key
+  that included into certificate.
+- CA use the CSR to create SSL certificate.
+- CSR is in Base-64 encoded PEM format.
