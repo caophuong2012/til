@@ -3,3 +3,7 @@ CSR (Certification Signing Request):
   that included into certificate.
 - CA use the CSR to create SSL certificate.
 - CSR is in Base-64 encoded PEM format.
+
+X.509: a standard for public key infrastructure (PKI) to manage certificates and
+public-key encryption. It's also a key part of TLS used to secure web and
+email.
