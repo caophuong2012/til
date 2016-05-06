@@ -1,0 +1,10 @@
+dynamic_html
+DHTML is an umbrella term for a collection of technologies used together to
+create dynamic web sites:
+• Markup language
+• Client-side scripting
+• Presentation definition language
+• DOM
+
+*Mechanism*
+• Request/reload-based (differentiated from Ajax)
