@@ -1,0 +1,31 @@
+xpath
+
+xpath is used to navigate through elements and attributes in an XML document.
+
+*Terminology*
+• Nodes:
+  - element
+  - attribute
+  - text
+  - namespace
+  - comment
+• Atomic values: nodes which there is no children or parent
+
+*Relationship of nodes*
+• Parents
+• Children
+• Sibling
+• Ancestor
+• Descendant
+
+*Select node*
+• Node names
+• / root node
+• . current node
+• .. parent node
+• @ attribute
+
+*Wild card*
+• matches any element node
+• @* matches any attribute node
+• node() matches any node of any kind
