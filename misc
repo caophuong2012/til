@@ -9,3 +9,8 @@ Copyright vs. Copyleft
 - Copyright: protect authors of documentation or software
 - Copyleft: provide a method for software or documentation to be modified, and
   distributed back to the community
+
+Process kill
+kill
+-9: Kernel will kill process without informing it. It is the hardest, roughest
+and most unsafe kill.
